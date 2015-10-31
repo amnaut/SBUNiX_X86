@@ -1,3 +1,5 @@
+This is source code for SBUNIX X_86 64 bit premptive OS developed as a course project
+
 The provided Makefile:
   1) builds a kernel
   2) copies it into rootfs/boot/kernel/kernel
